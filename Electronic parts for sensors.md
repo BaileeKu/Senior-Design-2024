@@ -10,6 +10,6 @@ They will be listed as Part (quantity). Most of the sensors are part of the Grav
 6. moisture sensor
 7. NPK sensor
 8. MQ2 sensor
-9. temperature sensors (2)
+9. DS18B20 - temperature sensor (2)
 
-* needs further revisions to add the rest of the parts and descriptions
+* needs further revisions to add the rest of the parts and descriptions as well as hyperlinks to purchase 
